@@ -39,7 +39,7 @@
 		<div class="collapse navbar-collapse navbar-ex1-collapse">
 			<ul class="nav navbar-nav">
 				<li class="active"><a href="#">FASHION</a></li>
-				<li><a href="#">MODA</a></li>
+				<li><a href="#">novedades</a></li>
 			</ul>
 			<form class="navbar-form navbar-left" role="search">
 				<div class="form-group">
